@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_AUDCAD_AUDCAD_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_AUDCAD_AUDCAD_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 4748,
+  "row_count": 6179,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1793859300,
-    "Time": "2026-11-05T06:15:00.000000000Z",
-    "open": 0.97828,
-    "high": 0.97857,
-    "low": 0.97828,
-    "close": 0.97843,
-    "volume": 39
+    "time": 1793945820,
+    "Time": "2026-11-06T06:17:00.000000000Z",
+    "open": 0.9659,
+    "high": 0.96594,
+    "low": 0.96569,
+    "close": 0.96583,
+    "volume": 14
   },
   "csv_file": "OANDA_AUDCAD_AUDCAD_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 4748,
+  "csv_row_count": 6179,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1793859300,
-    "Time": "2026-11-05T06:15:00.000000000Z",
-    "open": 0.97828,
-    "high": 0.97857,
-    "low": 0.97828,
-    "close": 0.97843,
-    "volume": 39
+    "time": 1793945820,
+    "Time": "2026-11-06T06:17:00.000000000Z",
+    "open": 0.9659,
+    "high": 0.96594,
+    "low": 0.96569,
+    "close": 0.96583,
+    "volume": 14
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-05T06:16:21.000000000Z",
-  "generated_at": "2026-11-05T06:16:21.000000000Z",
+  "verified_at": "2026-11-06T06:18:44.000000000Z",
+  "generated_at": "2026-11-06T06:18:44.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-03T06:28:00Z",
-        "to": "2026-11-05T06:16:00Z",
+        "from": "2026-11-05T06:10:00Z",
+        "to": "2026-11-06T06:18:00Z",
         "code": 200,
         "msg": "OK"
       }
